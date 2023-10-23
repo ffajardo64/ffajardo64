@@ -1,5 +1,36 @@
 # 💫 About Me:
-Sou apaixonado e experiente no campo da Estatística. Com uma mente inquisitiva<br>e um amor genuíno pelo aprendizado contínuo no mundo da modelagem estatística, <br>séries temporais e econometria.<br><br>Desde o início de mi carreira tenho afinidade muito especial pela Estatística e<br>uma capacidade excepcional para compreender e modelar dados complexos. <br>Sua paixão pelo assunto levou-o a explorar diversas vertentes, incluindo a área <br>computacional, onde ele mergulhou de cabeça no mundo das linguagens de <br>programação.<br><br>A minha jornada começou com a linguagem BASIC, um ponto de partida <br>comum para muitos entusiastas da programação. No entanto, sua curiosidade <br>e dedicação o impulsionaram a expandir seu repertório para incluir uma <br>variedade impressionante de linguagens, incluindo C, Oxmetrics, R, Python, <br>Julia e até mesmo em SAS, RATS, Eviews, VBA, LaTeX, ViM, entre outros. A minha <br>proficiência nessas linguagens e softwares é testemunho do meu compromisso <br>inabalável em aprimorar as minhas habilidades e conhecimentos.<br><br>Além disso, também me aventurei em linguagens de marcação, como <br>Markdown, e desenvolvimento web, dominando HTML e CSS para criar conteúdo <br>e aplicações interativas, tudo isso para comunicar eficazmente ideias <br>complexas no mundo da Estatística e além.<br><br>Atualmente, estou imerso na aprendizagem de Arduino e Raspberry Pi, explorando <br>o potencial dessas tecnologias para desenvolver aplicações práticas e interativas <br>na coleta de dados. Essa abordagem interdisciplinar e prática exemplifica meu <br>desejo de trazer a Estatística para a vida real, tornando-a acessível e compreensível <br>para um público diversificado.<br><br>Neste mundo cada vez mais orientado por dados, gostaria de compartilhar<br> meus conhecimentos e habilidades, combinando o rigor da Estatística com a <br>criatividade da programação e da tecnologia. 
+I am passionate and experienced in the field of Statistics. With an inquisitive mind
+and a genuine love for continuous learning in the world of statistical modeling,
+time series and econometrics.
+
+Since the beginning of my career I have had a special affinity for Statistics and
+exceptional ability to understand and model complex data.
+His passion for the subject has led him to explore various avenues, including computational modeling.
+area, where he plunged headlong into the world of programming languages.
+languages.
+
+My journey began with BASIC, a common starting point for many programming enthusiasts.
+common starting point for many programming enthusiasts. However, his curiosity
+and dedication pushed him to expand his repertoire to include an
+impressive range of languages, including C, Oxmetrics, R, Python,
+Julia and even SAS, RATS, Eviews, VBA, LaTeX, ViM, among others. My
+proficiency in these languages and software is testimony to my unwavering
+commitment to improving my skills and knowledge.
+
+In addition, I have also ventured into markup languages, such as
+Markdown, and web development, mastering HTML and CSS to create content
+and interactive applications, all to effectively communicate complex ideas in the world of
+ideas in the world of Statistics and beyond.
+
+I'm currently immersed in learning Arduino and Raspberry Pi, exploring
+the potential of these technologies to develop practical and interactive applications
+in data collection. This interdisciplinary and practical approach exemplifies my
+desire to bring Statistics into real life, making it accessible and understandable to a diverse
+to a diverse audience.
+
+In this increasingly data-driven world, I would like to share
+my knowledge and skills, combining the rigor of Statistics with the
+creativity of programming and technology. 
 
 
 ## 🌐 Socials:
